@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1749116519394,
-  "index": "/index.html",
+  "timestamp": 1749117277845,
+  "index": "/Entrega-PEC5/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,13 +11,13 @@
         "ignoreVary": true
       },
       "urls": [
-        "/favicon.ico",
-        "/index.html",
-        "/main.e3e282794ad5384e.js",
-        "/manifest.webmanifest",
-        "/polyfills.35e95dcdbb91f367.js",
-        "/runtime.d45ab49d8a172d9d.js",
-        "/styles.6507e0fc35322572.css"
+        "/Entrega-PEC5/favicon.ico",
+        "/Entrega-PEC5/index.html",
+        "/Entrega-PEC5/main.e3e282794ad5384e.js",
+        "/Entrega-PEC5/manifest.webmanifest",
+        "/Entrega-PEC5/polyfills.35e95dcdbb91f367.js",
+        "/Entrega-PEC5/runtime.d45ab49d8a172d9d.js",
+        "/Entrega-PEC5/styles.6507e0fc35322572.css"
       ],
       "patterns": []
     },
@@ -29,14 +29,14 @@
         "ignoreVary": true
       },
       "urls": [
-        "/assets/icons/icon-128x128.png",
-        "/assets/icons/icon-144x144.png",
-        "/assets/icons/icon-152x152.png",
-        "/assets/icons/icon-192x192.png",
-        "/assets/icons/icon-384x384.png",
-        "/assets/icons/icon-512x512.png",
-        "/assets/icons/icon-72x72.png",
-        "/assets/icons/icon-96x96.png"
+        "/Entrega-PEC5/assets/icons/icon-128x128.png",
+        "/Entrega-PEC5/assets/icons/icon-144x144.png",
+        "/Entrega-PEC5/assets/icons/icon-152x152.png",
+        "/Entrega-PEC5/assets/icons/icon-192x192.png",
+        "/Entrega-PEC5/assets/icons/icon-384x384.png",
+        "/Entrega-PEC5/assets/icons/icon-512x512.png",
+        "/Entrega-PEC5/assets/icons/icon-72x72.png",
+        "/Entrega-PEC5/assets/icons/icon-96x96.png"
       ],
       "patterns": []
     }
@@ -58,21 +58,21 @@
     }
   ],
   "hashTable": {
-    "/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
-    "/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
-    "/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
-    "/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
-    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
-    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
-    "/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
-    "/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
-    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "6076ea1131837f88d0201d977f35f234f24c57a4",
-    "/main.e3e282794ad5384e.js": "f0a3d8853b72dac7de8df48919c90ff63bc1dc2d",
-    "/manifest.webmanifest": "239aace3717edd27ba25dce01b20835c6fbf823d",
-    "/polyfills.35e95dcdbb91f367.js": "361744141c24299f012f13289a9f6dcaf15ba650",
-    "/runtime.d45ab49d8a172d9d.js": "f252cf1baf107954da812422dea7a31d46fdfd04",
-    "/styles.6507e0fc35322572.css": "1c428c356d3ad7dd744d877cb29ee6f7ce441188"
+    "/Entrega-PEC5/assets/icons/icon-128x128.png": "b1f06c7d714abb4a0cc4d1f7c954feb26826e4c4",
+    "/Entrega-PEC5/assets/icons/icon-144x144.png": "96a0d629765c1bc85d9263c6bc83094ca776d267",
+    "/Entrega-PEC5/assets/icons/icon-152x152.png": "b1fbbee3902eb96a7658e3bb006f31f78ca5a44c",
+    "/Entrega-PEC5/assets/icons/icon-192x192.png": "e4211163bf0911688fbfb80278d8ff4d2f77691d",
+    "/Entrega-PEC5/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/Entrega-PEC5/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/Entrega-PEC5/assets/icons/icon-72x72.png": "279825a1ac4377032ae996a1832c641e33ccf1b6",
+    "/Entrega-PEC5/assets/icons/icon-96x96.png": "592885efcbfee27e5e20be4fa3043589390d2740",
+    "/Entrega-PEC5/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/Entrega-PEC5/index.html": "336c45c22cdf711aeab1e4ed08e50a9533553034",
+    "/Entrega-PEC5/main.e3e282794ad5384e.js": "f0a3d8853b72dac7de8df48919c90ff63bc1dc2d",
+    "/Entrega-PEC5/manifest.webmanifest": "239aace3717edd27ba25dce01b20835c6fbf823d",
+    "/Entrega-PEC5/polyfills.35e95dcdbb91f367.js": "361744141c24299f012f13289a9f6dcaf15ba650",
+    "/Entrega-PEC5/runtime.d45ab49d8a172d9d.js": "f252cf1baf107954da812422dea7a31d46fdfd04",
+    "/Entrega-PEC5/styles.6507e0fc35322572.css": "1c428c356d3ad7dd744d877cb29ee6f7ce441188"
   },
   "navigationUrls": [
     {
