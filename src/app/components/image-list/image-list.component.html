@@ -1,0 +1,13 @@
+<div class="image-list-container">
+  <h1>Llistat d’Imatges</h1>
+
+  <mat-spinner *ngIf="isLoading"></mat-spinner>
+
+  <div class="card-grid" *ngIf="!isLoading">
+    <app-card
+      *ngFor="let image of images"
+      [image]="image"
+      (click)="goToDetail(image.id)"
+    ></app-card>
+  </div>
+</div>
