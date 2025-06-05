@@ -35,6 +35,7 @@
           },
           "configurations": {
             "production": {
+              "baseHref": "/Entrega-PEC5/",
               "budgets": [
                 {
                   "type": "initial",
